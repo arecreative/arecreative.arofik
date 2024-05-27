@@ -4,6 +4,8 @@
 ### Web @ App
 FrontEnd Developer
 BackEnd Developer
+Professional Design
+Professional Freelance
 
 ### Design -
 Branding Logo
@@ -13,8 +15,10 @@ Vektor file
 Video Editor
 
 ## Projects
-Triconville - Magento
-MAS App - Laravel
-Ez Fit - Laravel
-WAD - Premier Pro & DaVinci Resolve
-FAZ - Photoshop, Adb Ilustrator & Corel Draw
+Triconville - Magento (Semarang)
+MAS App - Laravel (Semarang - Jakarta Timur)
+Ez Fit - Laravel (Semarang)
+Master - Wordpress (Dubai)
+
+WAD - Premier Pro & DaVinci Resolve (Sydney)
+FAZ - Photoshop, Adb Ilustrator & Corel Draw (Bandung, Sydney - Australia)
