@@ -3,7 +3,7 @@
 ## Work Experience
 ### Web @ App
 FrontEnd Developer
-BackEbd Developer
+BackEnd Developer
 
 ### Design -
 Branding Logo
